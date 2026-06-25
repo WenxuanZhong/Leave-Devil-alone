@@ -1,0 +1,35 @@
+version: 2.10.0
+apkFileName: bieruoemo2.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 3
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 67
+  versionName: 3.0.6
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  adimage/beijing.png: 8
+  adimage/buy.png: 8
+  adimage/buys.png: 8
+  adimage/error.png: 8
+  adimage/finish.png: 8
+  adimage/log.png: 8
+  adimage/mybuy.png: 8
+  adimage/mybuys.png: 8
+  adimage/play.png: 8
+  adimage/puse.png: 8
+doNotCompress:
+- resources.arsc
+- assets/he/CCEDIT.jar
+- ogg
+- png
+- jpg

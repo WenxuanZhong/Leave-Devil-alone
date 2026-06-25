@@ -1,0 +1,81 @@
+20<br>Cure<dr>1000<br>0<br>30000<br>4<br>10<br>-1<br>-1<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:10->15
+Unit:3
+CD:30sec -> 27sec<dr>1000<br>0<br>27000<br>4<br>15<br>-1<br>500<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:15->20
+Unit:3
+CD:27sec -> 24sec<dr>1000<br>0<br>24000<br>4<br>20<br>-1<br>1000<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:20->25
+Unit:3
+CD:24sec -> 21sec<dr>1000<br>0<br>21000<br>4<br>25<br>-1<br>1500<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:25->30
+Unit:3
+CD:21sec -> 18sec<dr>1000<br>0<br>18000<br>4<br>30<br>-1<br>2000<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:30->35
+Unit:3
+CD:18sec -> 15sec<dr>1000<br>0<br>15000<br>4<br>35<br>-1<br>2500<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:35->40
+Unit:3
+CD:15sec -> 12sec<dr>1000<br>0<br>12000<br>4<br>40<br>-1<br>3000<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:40->45
+Unit:3
+CD:12sec -> 9sec<dr>1000<br>0<br>9000<br>4<br>45<br>-1<br>3500<br>4<br>Heals injured friendly units.
+Recover:1000
+cost:45->60
+Unit:3->4
+CD:9sec<dr>1000<br>0<br>9000<br>9<br>60<br>-1<br>4000<br>4<br>Heals injured friendly units.
+Recover:1000->2500
+cost:60->75
+Unit:4
+CD:9sec<dr>2500<br>0<br>9000<br>9<br>75<br>-1<br>5000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:75->80
+Unit:4
+CD:9sec->8sec<dr>2500<br>0<br>8000<br>9<br>80<br>-1<br>7000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:80->85
+Unit:4
+CD:8sec->7sec<dr>2500<br>0<br>7000<br>9<br>85<br>-1<br>9000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:85->90
+Unit:4
+CD:7sec->6sec<dr>2500<br>0<br>6000<br>9<br>90<br>-1<br>11000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:90->95
+Unit:4
+CD:6sec->5sec<dr>2500<br>0<br>5000<br>9<br>95<br>-1<br>13000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:95->100
+Unit:4
+CD:5sec->4sec<dr>2500<br>0<br>4000<br>9<br>100<br>-1<br>15000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:100
+Unit:4
+CD:4sec->3sec<dr>2500<br>0<br>3000<br>9<br>100<br>-1<br>20000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:100
+Unit:4
+CD:3sec->2sec<dr>2500<br>0<br>2000<br>9<br>100<br>-1<br>25000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:100
+Unit:4
+CD:2sec->1sec<dr>2500<br>0<br>1000<br>9<br>100<br>-1<br>30000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:100
+Unit:4
+CD:1sec->0sec<dr>2500<br>0<br>0<br>9<br>100<br>-1<br>35000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:100 -> 50
+Unit:4
+CD:1sec->0sec<dr>2500<br>0<br>0<br>9<br>50<br>-1<br>50000<br>4<br>Heals injured friendly units.
+Recover:2500
+cost:50
+Unit:4
+CD:0sec<dr>

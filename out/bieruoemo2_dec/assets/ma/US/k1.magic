@@ -1,0 +1,61 @@
+20<br>Freeze<dr>0<br>3000<br>60000<br>8<br>20<br>5<br>-1<br>1<br>Freezes all the enemies on screen.
+last: 3sec->4sec
+cost: 20->25
+CD: 60sec->58sec<dr>0<br>4000<br>58000<br>8<br>25<br>-1<br>800<br>1<br>Freezes all the enemies on screen.
+last: 4sec->5sec
+cost: 25->30
+CD: 58sec->56sec<dr>0<br>5000<br>56000<br>8<br>30<br>-1<br>1200<br>1<br>Freezes all the enemies on screen.
+last: 5sec->6sec
+cost: 30->35
+CD: 56sec->54sec<dr>0<br>6000<br>54000<br>8<br>35<br>-1<br>1600<br>1<br>Freezes all the enemies on screen.
+last: 6sec->7sec
+cost: 35->40
+CD: 54sec->52sec<dr>0<br>7000<br>52000<br>8<br>40<br>-1<br>2000<br>1<br>Freezes all the enemies on screen.
+last: 7sec->8sec
+cost: 40->45
+CD: 52sec->50sec<dr>0<br>8000<br>50000<br>8<br>45<br>-1<br>2500<br>1<br>Freezes all the enemies on screen.
+last: 8sec->9sec
+cost: 45->50
+CD: 50sec->48sec<dr>0<br>9000<br>48000<br>8<br>50<br>-1<br>3000<br>1<br>Freezes all the enemies on screen.
+last: 9sec->10sec
+cost: 50->55
+CD: 48sec->46sec<dr>0<br>10000<br>46000<br>8<br>55<br>-1<br>3500<br>1<br>Freezes all the enemies on screen.
+last: 10sec->11sec
+cost: 55->60
+CD: 46sec->44sec<dr>0<br>11000<br>44000<br>8<br>60<br>-1<br>4000<br>1<br>Freezes all the enemies on screen.
+last: 11sec->12sec
+cost: 60->70
+CD: 44sec->42sec<dr>0<br>12000<br>42000<br>8<br>70<br>-1<br>5000<br>1<br>Freezes all the enemies on screen.
+last: 12sec->13sec
+cost: 70->80
+CD: 42sec->40sec<dr>0<br>13000<br>40000<br>8<br>80<br>-1<br>6000<br>1<br>Freezes all the enemies on screen.
+last: 13sec->14sec
+cost: 80->90
+CD: 40sec->38sec<dr>0<br>14000<br>38000<br>8<br>90<br>-1<br>7000<br>1<br>Freezes all the enemies on screen.
+last: 14sec->15sec
+cost: 90->100
+CD: 38sec->36sec<dr>0<br>15000<br>36000<br>8<br>100<br>-1<br>8000<br>1<br>Freezes all the enemies on screen.
+last: 15sec->16sec
+cost: 100
+CD: 36sec->34sec<dr>0<br>16000<br>34000<br>8<br>100<br>-1<br>9000<br>1<br>Freezes all the enemies on screen.
+last: 16sec->17sec
+cost: 100
+CD: 34sec->30sec<dr>0<br>17000<br>30000<br>8<br>100<br>-1<br>10000<br>1<br>Freezes all the enemies on screen.
+last: 17sec->18sec
+cost: 100->90
+CD: 30sec<dr>0<br>18000<br>30000<br>8<br>90<br>-1<br>15000<br>1<br>Freezes all the enemies on screen.
+last: 18sec->19sec
+cost: 90->80
+CD: 30sec<dr>0<br>19000<br>30000<br>8<br>80<br>-1<br>20000<br>1<br>Freezes all the enemies on screen.
+last: 19sec->20sec
+cost: 80->70
+CD: 30sec<dr>0<br>20000<br>30000<br>8<br>70<br>-1<br>25000<br>1<br>Freezes all the enemies on screen.
+last: 20sec->21sec
+cost: 70->60
+CD: 30sec<dr>0<br>21000<br>30000<br>8<br>60<br>-1<br>30000<br>1<br>Freezes all the enemies on screen.
+last: 21sec->25sec
+cost: 60->50
+CD: 30sec<dr>0<br>25000<br>30000<br>8<br>50<br>-1<br>50000<br>1<br>Freezes all the enemies on screen.
+last: 25sec
+cost: 50
+CD: 30sec<dr>

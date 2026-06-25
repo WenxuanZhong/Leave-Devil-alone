@@ -1,0 +1,61 @@
+20<br>Earthquakel<dr>150<br>1000<br>45000<br>8<br>70<br>-1<br>-1<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:150 -> 200
+Stun:1sec -> 1.5sec
+cost:70 -> 85<dr>200<br>1500<br>45000<br>8<br>85<br>-1<br>2000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:150 -> 200
+Stun:1.5sec -> 2sec
+cost:85 -> 100<dr>250<br>2000<br>45000<br>8<br>100<br>-1<br>2500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:250 -> 300
+Stun:2sec -> 2.5sec
+cost:100 -> 115<dr>300<br>2500<br>45000<br>8<br>115<br>-1<br>3000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:300 -> 350
+Stun:2.5sec -> 3sec
+cost:115 -> 130<dr>350<br>3000<br>45000<br>8<br>130<br>-1<br>3500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:350 -> 400
+Stun:3sec -> 3.5sec
+cost:130 -> 145<dr>400<br>3500<br>45000<br>8<br>145<br>-1<br>4000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:400 -> 450
+Stun:3.5sec -> 4sec
+cost:145 -> 160<dr>450<br>4000<br>45000<br>8<br>160<br>-1<br>4500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:450 -> 525
+Stun:4sec -> 4.5sec
+cost:160 -> 175<dr>525<br>4500<br>45000<br>8<br>175<br>-1<br>5500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:525 -> 600
+Stun:4.5sec -> 5sec
+cost:175 -> 190<dr>600<br>5000<br>45000<br>8<br>190<br>-1<br>6500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:600 -> 700
+Stun:5sec -> 6sec
+cost:190 -> 200<dr>700<br>6000<br>45000<br>8<br>200<br>-1<br>7500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:700 -> 800
+Stun:6sec -> 7sec
+cost:200 -> 210<dr>800<br>7000<br>45000<br>8<br>210<br>-1<br>9000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:800 -> 90
+Stun:7sec -> 8sec
+cost:210 -> 220<dr>900<br>8000<br>45000<br>8<br>220<br>-1<br>10500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:900 -> 1050
+Stun:8sec -> 9sec
+cost:220 -> 230<dr>1000<br>9000<br>45000<br>8<br>230<br>-1<br>12000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:1000 -> 1100
+Stun:9sec -> 10sec
+cost:230 -> 240<dr>1100<br>10000<br>45000<br>8<br>240<br>-1<br>13500<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:1100 -> 1200
+Stun:10sec -> 11sec
+cost:240 -> 250<dr>1200<br>11000<br>45000<br>8<br>250<br>-1<br>15000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:1200 -> 1600
+Stun:11sec -> 12sec
+cost:250 -> 240<dr>1600<br>12000<br>45000<br>8<br>240<br>-1<br>20000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:1600 -> 2000
+Stun:12sec -> 13sec
+cost:240 -> 230<dr>2000<br>13000<br>45000<br>8<br>230<br>-1<br>25000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:2000 -> 2500
+Stun:13sec -> 14sec
+cost:230 -> 220<dr>2500<br>14000<br>45000<br>8<br>220<br>-1<br>30000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:2500 -> 3000
+Stun:14sec -> 15sec
+cost:220 -> 210<dr>3000<br>15000<br>45000<br>8<br>210<br>-1<br>35000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:3000 -> 4500
+Stun:15sec -> 20sec
+cost:210 -> 200<dr>4500<br>20000<br>45000<br>8<br>200<br>-1<br>50000<br>2<br>Summons an earthquake-causing giant fist that smashes the ground and stuns all enemies.
+attack:4500
+Stun:20sec
+cost:200<dr>

@@ -1,0 +1,41 @@
+20<br>Fireball<dr>100<br>0<br>9000<br>2<br>10<br>0<br>-1<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:100->150
+cost:10->15<dr>150<br>0<br>9500<br>2<br>15<br>-1<br>750<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:150->200
+cost:15->20<dr>200<br>0<br>10000<br>2<br>20<br>-1<br>1250<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:200->250
+cost:20->25<dr>250<br>0<br>10500<br>2<br>25<br>-1<br>1750<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:250->300
+cost:25->30<dr>300<br>0<br>11000<br>2<br>30<br>-1<br>2250<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:300->400
+cost:30->40<dr>400<br>0<br>11500<br>2<br>40<br>-1<br>2750<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:400->500
+cost:40->50<dr>500<br>0<br>12000<br>2<br>50<br>-1<br>3250<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:500->600
+cost:50->60<dr>600<br>0<br>12500<br>2<br>60<br>-1<br>3750<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:600->750
+cost:60->70<dr>750<br>0<br>13000<br>2<br>70<br>-1<br>4250<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:750->1100
+cost:70->75<dr>1100<br>0<br>13500<br>2<br>75<br>-1<br>5000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:1100->1500
+cost:75->80<dr>1500<br>0<br>14000<br>2<br>80<br>-1<br>6000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:1500->2000
+cost:80->85<dr>2000<br>0<br>14500<br>2<br>85<br>-1<br>7000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:2000->2500
+cost:85->90<dr>2500<br>0<br>15000<br>2<br>90<br>-1<br>8000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:2500->3000
+cost:90->95<dr>3000<br>0<br>15000<br>2<br>95<br>-1<br>9000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:3000->3500
+cost:95->100<dr>3500<br>0<br>15000<br>2<br>100<br>-1<br>10000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:3500->4500
+cost:100<dr>4500<br>0<br>15000<br>2<br>100<br>-1<br>15000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:4500->5500
+cost:100<dr>5500<br>0<br>15000<br>2<br>100<br>-1<br>20000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:5500->6500
+cost:100<dr>6500<br>0<br>15000<br>2<br>100<br>-1<br>25000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:6500->7500
+cost:100<dr>7500<br>0<br>15000<br>2<br>100<br>-1<br>30000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:7500->9999
+cost:100<dr>9999<br>0<br>15000<br>2<br>100<br>-1<br>50000<br>5<br>Summons a powerful fireball to destroy an enemy.
+attack:9999
+cost:100<dr>

@@ -1,0 +1,61 @@
+20<br>Lightning<dr>100<br>2000<br>12000<br>3<br>20<br>11<br>-1<br>3<br>Summons lightning bolts to destroy enemies.
+attack:100->150
+cost:20->30
+range:3个units<dr>150<br>2000<br>13000<br>3<br>30<br>-1<br>1500<br>3<br>Summons lightning bolts to destroy enemies.
+attack:150->200
+cost:30->40
+range:3个units<dr>200<br>2000<br>14000<br>3<br>40<br>-1<br>2000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:200->250
+cost:40->50
+range:3个units<dr>250<br>2000<br>15000<br>3<br>50<br>-1<br>2500<br>3<br>Summons lightning bolts to destroy enemies.
+attack:250->300
+cost:50->60
+range:3个units-> 5个units<dr>300<br>2500<br>16000<br>5<br>60<br>-1<br>3000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:300->350
+cost:60->75
+range:5个units<dr>350<br>2500<br>17000<br>5<br>75<br>-1<br>3500<br>3<br>Summons lightning bolts to destroy enemies.
+attack:350->400
+cost:75->90
+range:5个units<dr>400<br>2500<br>18000<br>5<br>90<br>-1<br>4000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:400->450
+cost:90->105
+range:5个units<dr>450<br>3000<br>19000<br>5<br>105<br>-1<br>4500<br>3<br>Summons lightning bolts to destroy enemies.
+attack:450->500
+cost:105->120
+range:5个units-> 9个units<dr>500<br>3000<br>20000<br>6<br>120<br>-1<br>5000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:500->700
+cost:120->125
+range:9个units<dr>700<br>3000<br>20000<br>6<br>125<br>-1<br>6000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:700->950
+cost:125->130
+range:9个units<dr>900<br>3000<br>20000<br>6<br>130<br>-1<br>7000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:900->1150
+cost:130->135
+range:9个units<dr>1150<br>3000<br>20000<br>6<br>135<br>-1<br>8000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:1150->1400
+cost:135->140
+range:9个units<dr>1400<br>3000<br>20000<br>6<br>140<br>-1<br>9000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:1400->1700
+cost:140->145
+range:9个units<dr>1700<br>3000<br>20000<br>6<br>145<br>-1<br>10000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:1700->2000
+cost:145->150
+range:9个units<dr>2000<br>3000<br>20000<br>6<br>150<br>-1<br>12000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:2000->2500
+cost:150
+range:9个units<dr>2500<br>3000<br>20000<br>6<br>150<br>-1<br>20000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:2500->3000
+cost:150
+range:9个units<dr>3000<br>3000<br>20000<br>6<br>150<br>-1<br>25000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:3000->3500
+cost:150
+range:9个units<dr>3500<br>3000<br>20000<br>6<br>150<br>-1<br>30000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:3500->4000
+cost:150
+range:9个units<dr>4000<br>3000<br>20000<br>6<br>150<br>-1<br>35000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:4000->6000
+cost:150
+range:9个units<dr>6000<br>3000<br>20000<br>6<br>150<br>-1<br>50000<br>3<br>Summons lightning bolts to destroy enemies.
+attack:6000
+cost:150
+range:9个units<dr>

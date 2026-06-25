@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 Wenxuan Zhong
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+IMPORTANT NOTICE:
+
+This project contains modifications to the game "别惹恶魔" (Leave Devil Alone).
+The original game content and assets are property of their respective copyright holders.
+
+This MIT License applies ONLY to:
+- The adaptation code and modifications made by Wenxuan Zhong
+- The technical documentation and build scripts
+- The reverse engineering methodology and tooling setup
+
+This license does NOT apply to:
+- The original game binary and assets
+- Any proprietary game content
+- Third-party libraries included in the original APK
+
+This project is created with authorization from the original company for the purpose
+of extending the game's compatibility with modern Android systems.
+
+If you believe this project infringes on your copyright, please contact:
+wenxuanzhong@outlook.com

@@ -1,0 +1,82 @@
+20<br>Firewall<dr>10<br>9000<br>10000<br>4<br>30<br>3<br>-1<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:40/sec -> 48/sec
+last:9sec->10sec
+cost:30 ->35
+range:3units<dr>12<br>10000<br>10000<br>4<br>35<br>-1<br>1500<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:48/sec -> 56/sec
+last:10sec->11sec
+cost:35 ->40
+range:3units<dr>14<br>11000<br>10000<br>4<br>40<br>-1<br>2000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:56/sec -> 64/sec
+last:11sec->12sec
+cost:40 ->45
+range:3units<dr>16<br>12000<br>10000<br>4<br>45<br>-1<br>2500<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:64/sec -> 72/sec
+last:12sec->13sec
+cost:40 ->45
+range:3units<dr>18<br>13000<br>10000<br>4<br>50<br>-1<br>3000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:72/sec -> 80/sec
+last:13sec->14sec
+cost:50 ->55
+range:3units<dr>20<br>14000<br>10000<br>4<br>55<br>-1<br>3500<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:80/sec -> 88/sec
+last:14sec->15sec
+cost:55 ->60
+range:3units-> 4units<dr>22<br>15000<br>10000<br>9<br>60<br>-1<br>4000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:88/sec -> 96/sec
+last:15sec->16sec
+cost:60 ->65
+range:4units
+<dr>24<br>16000<br>10000<br>9<br>65<br>-1<br>4500<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:96/sec -> 104/sec
+last:16sec->18sec
+cost:65 ->70
+range:4units<dr>26<br>18000<br>10000<br>9<br>70<br>-1<br>5000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:104/sec -> 116/sec
+last:18sec->20sec
+cost:70 ->75
+range:4units<dr>29<br>20000<br>10000<br>9<br>75<br>-1<br>6000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:116/sec -> 128/sec
+last:20sec->22sec
+cost:75 ->80
+range:4units<dr>32<br>22000<br>10000<br>9<br>80<br>-1<br>7000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:128/sec -> 140/sec
+last:22sec->24sec
+cost:80 ->85
+range:4units<dr>35<br>24000<br>10000<br>9<br>85<br>-1<br>8000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:140/sec -> 160/sec
+last:24sec -> 26sec
+cost:85 ->90
+range:4units<dr>40<br>26000<br>10000<br>9<br>90<br>-1<br>9000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:160/sec -> 180/sec
+last:26sec -> 28sec
+cost:90 ->95
+range:4units<dr>45<br>28000<br>10000<br>9<br>95<br>-1<br>10000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:180/sec -> 200/sec
+last:28sec -> 30sec
+cost:95 ->100
+range:4units<dr>50<br>30000<br>10000<br>9<br>100<br>-1<br>12000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:200/sec -> 250/sec
+last:30sec -> 35sec
+cost:100
+range:4units<dr>62<br>35000<br>10000<br>9<br>100<br>-1<br>15000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:250/sec -> 300/sec
+last:35sec -> 40sec
+cost:100
+range:4units<dr>75<br>40000<br>10000<br>9<br>100<br>-1<br>20000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:300/sec -> 350/sec
+last:40sec -> 45sec
+cost:100
+range:4units<dr>87<br>45000<br>10000<br>9<br>100<br>-1<br>25000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:350/sec -> 400/sec
+last:45sec -> 50sec
+cost:100
+range:4units<dr>100<br>50000<br>10000<br>9<br>100<br>-1<br>30000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:400/sec -> 500/sec
+last:50sec -> 60sec
+cost:100->50
+range:4units<dr>125<br>60000<br>10000<br>9<br>50<br>-1<br>50000<br>5<br>Casts a spell that burns the ground beneath your enemies' feet, causing them damage as they advance.
+attack:500/sec
+last:60sec
+cost:50
+range:4units<dr>

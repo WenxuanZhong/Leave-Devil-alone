@@ -1,0 +1,1 @@
+1<br>0<br>12000<br>1<br>0<br>0<br>3<br><h>0<br>100<br>3<br>12000<br><r><w>1<br>0<br>10000<br>1<br>0<br>0<br>0<br><h>2<br>100<br>4<br>5000<br><r><w>0<br>0<br>10000<br>1<br>0<br>0<br>0<br><h>1<br>100<br>4<br>0<br><r><w>

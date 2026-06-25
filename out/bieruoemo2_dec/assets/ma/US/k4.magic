@@ -1,0 +1,61 @@
+20<br>Blood Fury<dr>0<br>4000<br>60000<br>8<br>40<br>15<br>-1<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:4sec -> 5sec
+cost:40 ->45
+CD:60sec->58sec<dr>0<br>5000<br>58000<br>8<br>45<br>-1<br>1250<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:5sec -> 6sec
+cost:45 ->50
+CD:58sec->56sec<dr>0<br>6000<br>56000<br>8<br>50<br>-1<br>1750<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:6sec -> 7sec
+cost:50 ->55
+CD:56sec->54sec<dr>0<br>7000<br>54000<br>8<br>55<br>-1<br>2250<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:7sec -> 8sec
+cost:55 ->60
+CD:54sec->52sec<dr>0<br>8000<br>52000<br>8<br>60<br>-1<br>2750<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:8sec -> 9sec
+cost:60 ->65
+CD:52sec->50sec<dr>0<br>9000<br>50000<br>8<br>65<br>-1<br>3250<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:9sec -> 10sec
+cost:65 ->70
+CD:50sec->48sec<dr>0<br>10000<br>48000<br>8<br>70<br>-1<br>3750<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:10sec -> 12sec
+cost:70 ->80
+CD:48sec->46sec<dr>0<br>12000<br>46000<br>8<br>75<br>-1<br>4250<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:12sec -> 14sec
+cost:80 ->90
+CD:46sec->44sec<dr>0<br>14000<br>44000<br>8<br>80<br>-1<br>5000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:14sec -> 16sec
+cost:90 ->100
+CD:44sec->42sec<dr>0<br>16000<br>42000<br>8<br>100<br>-1<br>7000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:16sec -> 18sec
+cost:100 ->110
+CD:42sec->40sec<dr>0<br>18000<br>40000<br>8<br>110<br>-1<br>9000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:18sec -> 21sec
+cost:110 ->120
+CD:40sec->38sec<dr>0<br>21000<br>38000<br>8<br>120<br>-1<br>12000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:21sec -> 24sec
+cost:120 ->130
+CD:38sec->36sec<dr>0<br>24000<br>36000<br>8<br>130<br>-1<br>15000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:24sec -> 27sec
+cost:130 ->140
+CD:36sec->34sec<dr>0<br>27000<br>34000<br>8<br>140<br>-1<br>20000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:27sec -> 30sec
+cost:140 ->150
+CD:34sec->30sec<dr>0<br>30000<br>30000<br>8<br>150<br>-1<br>25000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:150 ->130
+CD:30sec<dr>0<br>30000<br>30000<br>8<br>130<br>-1<br>30000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:130 ->110
+CD:30sec<dr>0<br>30000<br>30000<br>8<br>110<br>-1<br>35000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:110 ->90
+CD:30sec<dr>0<br>30000<br>30000<br>8<br>90<br>-1<br>40000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:90 ->50
+CD:30sec<dr>0<br>30000<br>30000<br>8<br>50<br>-1<br>50000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:50 ->0
+CD:30sec<dr>0<br>30000<br>30000<br>8<br>0<br>-1<br>60000<br>6<br>Sends friendly units into a frenzy which doubles their attack speed.
+last:30sec
+cost:0
+CD:30sec<dr>

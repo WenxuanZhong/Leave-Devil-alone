@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Tipa1">"点击一下沙鬼的图标会显示他的名字
+再次点击就会选择沙鬼出阵！"</string>
+    <string name="app_name">别惹恶魔</string>
+    <string name="kong">空</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="cearte">请创建一个用户</string>
+    <string name="delete">你确认删除</string>
+    <string name="Tipa2">"双击选择恶魔石像!
+恶魔石像可以挡住敌人保护他身后的同伴"</string>
+    <string name="Tipa3">"双击选择墓碑。
+墓碑会为你收集灵魂"</string>
+    <string name="Tipa4">"点击火球术的图标
+可以把火球术加入到魔法栏"</string>
+    <string name="Tipa5">"点击魔法选择
+开始选择战场中可使用的魔法"</string>
+    <string name="Tipa6">"点击开始按钮!
+开始游戏"</string>
+    <string name="Tipa7">"这个数字表示你拥有的灵魂数量
+召唤任何单位都需要一定数量的灵魂"</string>
+    <string name="Tipa8">"点击或者把沙鬼的图标拖出单位栏
+就可以选中沙鬼并准备召唤"</string>
+    <string name="Tipa9">"把沙鬼拖到这里并放手或点击这里
+你的沙鬼就召唤成功了！"</string>
+    <string name="Tipa10">"小心！敌人已经开始冲过来了!
+你的沙鬼会攻击同线的敌人"</string>
+    <string name="Tipa11">"当敌人被消灭的时候你会获得一定的怒气!
+你需要一定的怒气来施放魔法"</string>
+    <string name="Tipa12">"另一个敌人又过来了!
+但这次你没有沙鬼来抵挡他"</string>
+    <string name="Tipa13">"别担心，我们还有魔法!
+现在请点击火球的图标来选择它"</string>
+    <string name="Tipa14">"点击或者拖动到这里!
+放手看下会发生什么事!"</string>
+    <string name="Tipa15">"你把敌人炸成灰烬了!
+恭喜你，你做的非常好!"</string>
+    <string name="Tipa16">"现在你的道具栏里有了墓碑卡了!
+请你选择并召唤墓碑"</string>
+    <string name="Tipa17">召唤一个墓碑到这里!</string>
+    <string name="Tipa18">"墓碑收集的灵魂飞出来的时候请点击或者用手指划过他们
+别让灵魂跑了噢!"</string>
+    <string name="Tipa19">你收集的灵魂越多就能召唤更多的怪物</string>
+    <string name="Tipa20">现在请尝试再召唤三个墓碑！</string>
+    <string name="Tipa21">"当你想要删除召唤出来的恶魔
+你可以点选右上角的恶魔之手!"</string>
+    <string name="Tipa22">现在拖动恶魔之手到这里来删除墓碑！</string>
+    <string name="Tipa23">在这里召唤第一个墓碑</string>
+    <string name="Tipa24">在这里召唤第二个墓碑</string>
+    <string name="Tipa25">在这里召唤第三个墓碑</string>
+    <string name="Tipa26">收集你的灵魂数量到100，准备召唤恶魔石像!</string>
+    <string name="Tipa27">小心!敌人过来了!</string>
+    <string name="Tipa28">"在这里召唤你的恶魔石像!
+恶魔石像可以帮你挡住敌人，他的防御可是超高的哦!"</string>
+    <string name="Tipa29">"现在在这里召唤你的沙鬼!
+尽量召唤多点来抵御敌人的进攻!"</string>
+    <string name="NO_Tombstone">没有墓碑！</string>
+    <string name="Not_enough_money">没有足够的金币！</string>
+    <string name="Not_enough_space">超出可控制恶魔数量！</string>
+    <string name="skip">是否跳过教学关？</string>
+    <string name="YES">是</string>
+    <string name="NO">否</string>
+    <string name="SET">设置</string>
+    <string name="EXIE">是否退出游戏？</string>
+    <string name="jinbi">购买技能点</string>
+    <string name="buyinfo">购买技能点数&lt; 5个 > ，信息费2元/条，共1条，合计2元，不含通信费。点击“确认”开始购买，返回则不扣费。客服电话：020-81367357。您将选择本公司提供的手机游戏作品，信息费2元/条，继续点播开始享受服务，返回则不扣费。客服电话：010-82872310。</string>
+    <string name="needMoney">Need：</string>
+    <string name="needSkiil">需要技能点：</string>
+    <string name="Buy2">Are you sure want to buy ?</string>
+</resources>

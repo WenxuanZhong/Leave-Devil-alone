@@ -1,0 +1,21 @@
+10<br>Transport<dr>0<br>0<br>10000<br>0<br>10<br>7<br>-1<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :10 sec-> 9 sec
+Cost:10-> 9<dr>0<br>0<br>9000<br>0<br>9<br>-1<br>1000<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :9 sec-> 8 sec
+Cost:9-> 8<dr>0<br>0<br>8000<br>0<br>8<br>-1<br>1500<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :8 sec-> 7 sec
+Cost:8-> 7<dr>0<br>0<br>7000<br>0<br>7<br>-1<br>2000<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :7 sec-> 6 sec
+Cost:7-> 6<dr>0<br>0<br>6000<br>0<br>6<br>-1<br>2500<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :6 sec-> 5 sec
+Cost:6-> 5<dr>0<br>0<br>5000<br>0<br>5<br>-1<br>3000<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :6 sec-> 5 sec
+Cost:6-> 5<dr>0<br>0<br>4000<br>0<br>4<br>-1<br>3500<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :5 sec-> 4 sec
+Cost:5-> 4<dr>0<br>0<br>3000<br>0<br>3<br>-1<br>4000<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :3 sec-> 2 sec
+Cost:3-> 2<dr>0<br>0<br>2000<br>0<br>2<br>-1<br>4500<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :2 sec-> 0 sec
+Cost:2-> 0<dr>0<br>0<br>0<br>0<br>0<br>-1<br>5000<br>10<br>Teleports a friendly unit to any place or switches their positions.
+CD  :0 sec
+Cost:0<dr>

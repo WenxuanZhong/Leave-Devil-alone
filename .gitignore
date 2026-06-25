@@ -1,0 +1,29 @@
+# Bug reports
+bugreport-*.zip
+
+# Build outputs (keep only final signed version and modified sources)
+out/*
+!out/bieruoemo2_dec/
+
+# Original APKs (not needed in repo)
+bieruoemo2.apk
+别惹恶魔.apk
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Android
+*.dex
+*.class
