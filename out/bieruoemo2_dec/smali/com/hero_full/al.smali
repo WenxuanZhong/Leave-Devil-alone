@@ -2334,6 +2334,14 @@
 
     iget-object v2, p0, Lcom/hero_full/al;->bH:[La/i;
 
+    # Array bounds check: ensure p1 < bH.length
+    array-length v3, v2
+
+    if-lt p1, v3, :cond_bh_safe
+
+    goto :goto_0
+
+    :cond_bh_safe
     aget-object v2, v2, p1
 
     iget v2, v2, La/i;->l:I
@@ -10657,6 +10665,15 @@
 
     move-result-object v1
 
+    # Array bounds check: ensure v2 < v1.length before access
+    array-length v0, v1
+
+    if-lt v2, v0, :cond_array_safe_10668
+
+    # If out of bounds, skip this section and return early
+    return-void
+
+    :cond_array_safe_10668
     aget-object v0, v1, v2
 
     const-string v3, "<br>"
@@ -14868,6 +14885,15 @@
 
     move-result v0
 
+    # Array bounds check: ensure random index v0 < v10.length
+    array-length v4, v10
+
+    if-lt v0, v4, :cond_random_safe
+
+    # If out of bounds, use 0 as safe fallback
+    const/4 v0, 0x0
+
+    :cond_random_safe
     aget v4, v10, v0
 
     invoke-static {v8}, Lcom/hero_full/al;->e(I)I

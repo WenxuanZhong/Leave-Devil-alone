@@ -36,17 +36,26 @@
 - ✅ 屏蔽失效的内购模块（避免白屏）
 - ✅ 修复商店升级魔法时金币显示不刷新的问题
 
+### 崩溃修复（2026-06-25 最新）
+- ✅ 修复后期关卡数组越界崩溃（3 个高危 bug）
+- ✅ bH 数组访问添加动态边界检查
+- ✅ 字符串解析数组访问时序修正
+- ✅ 随机索引边界验证
+- 🔍 发现 41+ 个潜在问题，已修复最严重的 3 个
+
 ## 📦 发布包
 
-最新可用版本：`bieruoemo2_android14_original_signed.apk`
+最新可用版本：`bieruoemo2_android14_fix27_signed.apk`（待构建）
 
 **功能特性**：
 - 支持 Android 14+ 系统
-- 稳定运行无闪退
+- 稳定运行无闪退（含最新崩溃修复）
 - UI 布局正确显示
 - 保留原版游戏机制（正常金币系统）
+- 修复后期关卡崩溃问题
 
-**其他版本**：
+**历史版本**：
+- `bieruoemo2_android14_original_signed.apk` - 基础版本（fix23）
 - `unlimited-coins-version` 分支：包含无限金币修改的实验版本
 
 ## 🛠️ 技术细节
@@ -57,9 +66,10 @@
 - **JDK 17**：Java 开发环境
 
 ### 修改范围
-- 修改文件：10 个核心 Smali 文件（不含游戏性修改）
+- 修改文件：10 个核心 Smali 文件（不含游戏性修改）+ 3 个崩溃修复
 - 代码规模：625 个 Smali 文件（5 万+ 行汇编代码）
-- 迭代版本：23+ 个修复版本
+- 迭代版本：27+ 个修复版本
+- 代码审计：发现 41+ 个潜在崩溃点
 
 ### 核心修改文件
 ```
@@ -130,13 +140,13 @@ $bt='C:\Users\zhong\AppData\Local\Android\Sdk\build-tools\36.1.0'
 
 1. 本项目仅用于技术学习和游戏保护目的
 2. 所有修改在原公司授权下进行
-3. 如有任何版权问题，请联系 wenxuanzhong@outlook.com 删除
+3. 如有任何版权问题，请联系 hinschung@qq.com 删除
 4. 请勿用于商业用途
 
 ## 📧 联系方式
 
-- 作者：钟文轩
-- 邮箱：wenxuanzhong@outlook.com
+- 作者：Wxz
+- 邮箱：hinschung@qq.com
 - GitHub：[@WenxuanZhong](https://github.com/WenxuanZhong)
 
 ## 📄 许可证
