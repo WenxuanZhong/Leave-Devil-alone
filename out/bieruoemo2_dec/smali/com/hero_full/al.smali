@@ -571,9 +571,7 @@
 
     iput v3, p0, Lcom/hero_full/al;->A:I
 
-    const v0, 0x3b9ac9ff    # 999999999
-
-    iput v0, p0, Lcom/hero_full/al;->Q:I
+    iput v1, p0, Lcom/hero_full/al;->Q:I
 
     iput v1, p0, Lcom/hero_full/al;->R:I
 
@@ -3624,11 +3622,13 @@
 
     if-lt v0, v2, :cond_0
 
-    # Unlimited coins mod - skip currency deduction
-    # iget v0, p0, Lcom/hero_full/al;->Q:I
-    # iget v2, p0, Lcom/hero_full/al;->aO:I
-    # sub-int/2addr v0, v2
-    # iput v0, p0, Lcom/hero_full/al;->Q:I
+    iget v0, p0, Lcom/hero_full/al;->Q:I
+
+    iget v2, p0, Lcom/hero_full/al;->aO:I
+
+    sub-int/2addr v0, v2
+
+    iput v0, p0, Lcom/hero_full/al;->Q:I
 
     iget-object v0, p0, Lcom/hero_full/al;->cl:Ljava/util/Vector;
 
@@ -4122,8 +4122,7 @@
 
     iput v1, p0, Lcom/hero_full/al;->dD:I
 
-    # Unlimited coins mod - don't reset coins to 0
-    # iput v1, p0, Lcom/hero_full/al;->Q:I
+    iput v1, p0, Lcom/hero_full/al;->Q:I
 
     iget-object v0, p0, Lcom/hero_full/al;->n:Lcom/c/a/h;
 
@@ -4570,11 +4569,6 @@
     invoke-virtual {v2}, Lcom/c/a/h;->b()I
 
     move-result v2
-
-    iput v2, p0, Lcom/hero_full/al;->Q:I
-
-    # Unlimited coins mod - force set to 999999999 after loading
-    const v2, 0x3b9ac9ff
 
     iput v2, p0, Lcom/hero_full/al;->Q:I
 
@@ -6334,11 +6328,6 @@
     invoke-virtual {v1}, Lcom/c/a/h;->b()I
 
     move-result v1
-
-    iput v1, p0, Lcom/hero_full/al;->Q:I
-
-    # Unlimited coins mod - force set to 999999999 after loading
-    const v1, 0x3b9ac9ff
 
     iput v1, p0, Lcom/hero_full/al;->Q:I
 
@@ -9129,11 +9118,13 @@
 
     if-lt v0, v1, :cond_6
 
-    # Unlimited coins mod - skip currency deduction
-    # iget v0, p0, Lcom/hero_full/al;->Q:I
-    # iget v1, p0, Lcom/hero_full/al;->dY:I
-    # sub-int/2addr v0, v1
-    # iput v0, p0, Lcom/hero_full/al;->Q:I
+    iget v0, p0, Lcom/hero_full/al;->Q:I
+
+    iget v1, p0, Lcom/hero_full/al;->dY:I
+
+    sub-int/2addr v0, v1
+
+    iput v0, p0, Lcom/hero_full/al;->Q:I
 
     move v3, v2
 

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash($javaHome='C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-17.0.18.8-hotspot')",
+      "Bash($env:JAVA_HOME=$javaHome)",
+      "Bash($env:Path=\"$javaHome\\\\bin;\" + $env:Path)",
+      "Bash(tools/apktool.bat b:*)",
+      "Bash(\"C:\\\\Users\\\\zhong\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\build-tools\\\\36.1.0\\\\zipalign.exe\":*)",
+      "Bash(\"C:\\\\Users\\\\zhong\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\build-tools\\\\36.1.0\\\\apksigner.bat\" sign:*)",
+      "Bash(\"C:\\\\Users\\\\zhong\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\build-tools\\\\36.1.0\\\\apksigner.bat\" verify:*)"
+    ]
+  }
+}

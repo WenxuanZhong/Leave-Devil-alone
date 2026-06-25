@@ -1740,29 +1740,49 @@
     invoke-virtual {v0}, Lcom/c/a/d;->a()V
 
     :cond_1
-    # Unlimited coins mod - disable anti-cheat check
-    # sget-boolean v0, Lcom/hero_full/d;->j:Z
-    # if-nez v0, :cond_2
-    # iget v0, p0, Lcom/hero_full/GameMidlet;->q:I
-    # add-int/lit16 v0, v0, -0x3e6
-    # iget-object v1, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
-    # iget-object v1, v1, Lcom/hero_full/d;->b:Lcom/hero_full/al;
-    # iget v1, v1, Lcom/hero_full/al;->Q:I
-    # if-eq v0, v1, :cond_2
-    # const-string v0, "\u4eb2\uff01\u8bf7\u4f60\u4e0d\u8981\u4f5c\u5f0a~~~~"
-    # invoke-virtual {p0, v0}, Lcom/hero_full/GameMidlet;->a(Ljava/lang/String;)V
-    # iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
-    # iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
-    # iget v1, p0, Lcom/hero_full/GameMidlet;->q:I
-    # add-int/lit16 v1, v1, -0x3e6
-    # iput v1, v0, Lcom/hero_full/al;->Q:I
-    # iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
-    # iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
-    # iget v0, v0, Lcom/hero_full/al;->Q:I
-    # if-gez v0, :cond_2
-    # iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
-    # iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
-    # iput v2, v0, Lcom/hero_full/al;->Q:I
+    sget-boolean v0, Lcom/hero_full/d;->j:Z
+
+    if-nez v0, :cond_2
+
+    iget v0, p0, Lcom/hero_full/GameMidlet;->q:I
+
+    add-int/lit16 v0, v0, -0x3e6
+
+    iget-object v1, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
+
+    iget-object v1, v1, Lcom/hero_full/d;->b:Lcom/hero_full/al;
+
+    iget v1, v1, Lcom/hero_full/al;->Q:I
+
+    if-eq v0, v1, :cond_2
+
+    const-string v0, "\u4eb2\uff01\u8bf7\u4f60\u4e0d\u8981\u4f5c\u5f0a~~~~"
+
+    invoke-virtual {p0, v0}, Lcom/hero_full/GameMidlet;->a(Ljava/lang/String;)V
+
+    iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
+
+    iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
+
+    iget v1, p0, Lcom/hero_full/GameMidlet;->q:I
+
+    add-int/lit16 v1, v1, -0x3e6
+
+    iput v1, v0, Lcom/hero_full/al;->Q:I
+
+    iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
+
+    iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
+
+    iget v0, v0, Lcom/hero_full/al;->Q:I
+
+    if-gez v0, :cond_2
+
+    iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;
+
+    iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
+
+    iput v2, v0, Lcom/hero_full/al;->Q:I
 
     :cond_2
     iget-object v0, p0, Lcom/hero_full/GameMidlet;->a:Lcom/hero_full/d;

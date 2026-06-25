@@ -43,10 +43,11 @@
 
     iget-object v0, v0, Lcom/hero_full/d;->b:Lcom/hero_full/al;
 
-    # Unlimited coins mod - skip currency deduction
-    # iget v1, v0, Lcom/hero_full/al;->Q:I
-    # add-int/lit16 v1, v1, -0x4e20
-    # iput v1, v0, Lcom/hero_full/al;->Q:I
+    iget v1, v0, Lcom/hero_full/al;->Q:I
+
+    add-int/lit16 v1, v1, -0x4e20
+
+    iput v1, v0, Lcom/hero_full/al;->Q:I
 
     iget-object v0, p0, Lcom/hero_full/aa;->a:Lcom/hero_full/GameMidlet;
 
